@@ -18,21 +18,20 @@ The objective was to identify workforce turnover patterns, understand key attrit
 ---
 ## Repository structure
 HR-Attrition-Analysis-PowerBI
-│
-├── 1_PowerBI_Dashboard
-│   └── HR_Attrition_Analysis.pbix
-│
-├── 2_Business_Case_Study
-│   └── HR_Attrition_Case_Study.pdf
-│
-├── 3_Dataset
-│   └── IBM_HR_Attrition.csv
-│
-├── 4_Dashboard_Screenshots
-│   ├── Risk Analysis.png
-│   ├── Attrition_Drivers.png
-│
-└── README.md
+1_PowerBI_Dashboard
+ HR_Attrition_Analysis.pbix
+ 
+2_Business_Case_Study
+HR_Attrition_Case_Study.pdf
+
+3_Dataset
+IBM_HR_Attrition.csv
+
+ 4_Dashboard_Screenshots
+Risk Analysis.png
+Attrition_Drivers.png
+
+ 5_README.md
 
 ## Dashboard Features
 
