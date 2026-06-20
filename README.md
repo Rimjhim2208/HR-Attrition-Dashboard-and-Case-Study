@@ -17,7 +17,7 @@ The objective was to identify workforce turnover patterns, understand key attrit
 
 ---
 ## Repository structure
-HR-Attrition-Analysis-PowerBI
+
 1_PowerBI_Dashboard
  HR_Attrition_Analysis.pbix
  
